@@ -5,7 +5,7 @@ pipeline{
 				stage('Build'){
 						step{
 								sh make
-								echo "Building done...gg ala??" 
+								echo "Building done.??" 
 						}
 
 				}
